@@ -12,11 +12,11 @@ import {connectDB} from './db/db.js';
 
 connectDB();
 import {
-    DB_HOST,
-    DB_PORT,
-    DB_USER,
-    DB_PASSWORD,
-    DB_DATABASE,
+    // DB_HOST,
+    // DB_PORT,
+    // DB_USER,
+    // DB_PASSWORD,
+    // DB_DATABASE,
     PORT
 } from './db/config.js';
 // import { pool } from './db/database.js';
